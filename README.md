@@ -36,6 +36,9 @@ Instagram Data: The primary dataset used for this project sentiment analysis is 
 
 ### - Translating the comments
 
+![Alt text](https://www.bing.com/images/search?view=detailV2&ccid=D5qLFs4t&id=6B3845E373170E50C7EE0D54D7B236BBAD58F39D&thid=OIP.D5qLFs4t18g8BbQiPXhOOwHaE8&mediaurl=https%3A%2F%2Fwww.englishtospanishraleigh.com%2Fcms%2Fwp-content%2Fuploads%2F2019%2F02%2FGoogle-Translate-English-to-Spanish.webp&cdnurl=https%3A%2F%2Fth.bing.com%2Fth%2Fid%2FR.0f9a8b16ce2dd7c83c05b4223d784e3b%3Frik%3DnfNYrbs2stdUDQ%26pid%3DImgRaw%26r%3D0&exph=334&expw=500&q=translation&simid=607998328841445441&FORM=IRPRST&ck=22B444B561ADBF5542251F8A3FFCF009&selectedIndex=2&itb=0&cw=1375&ch=671&ajaxhist=0&ajaxserp=0)
+
+
 Using Jupyter Notebook, it was extracted the dataset and transformed applying some functions and tools to translate the comments that are in other languages. The reasons are because we can get better insigths, after VADER has detected comments text in English.
 
 You can view the Jupyter Notebook: https://github.com/DavidBejarano17/IG_Shrek5_Sentiment_Analysis/blob/main/Translation_of_comments.ipynb
