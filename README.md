@@ -44,7 +44,7 @@ You can view the Jupyter Notebook: https://github.com/DavidBejarano17/IG_Shrek5_
 
 ### - Sentiment Analysis
 
-In this section, after extracting, cleaning and transforming data to get a columns with of the comments in English. In the following Jupyter notebook we can found some insights and queries that will be usefull to the analysis.
+In this section, after extracting, cleaning and transforming data to create a column of the comments in English. In the following Jupyter notebook we can found some insights and queries that will be usefull to the analysis.
 
 You acan view the Jupyter Notebook:
 https://github.com/DavidBejarano17/IG_Shrek5_Sentiment_Analysis/blob/main/data_sent_analysis.ipynb
