@@ -10,6 +10,10 @@ This sentiment analysis project aims to found and resolved some questions and is
 
 For scrapping the comments on Instagram I used a scrapping tool to get the data and its called (IG Export & Scraper).
 
+
+![Image](https://github.com/user-attachments/assets/cc3e1bbf-b835-4fdf-b650-5a8d3fb28826)
+
+
 For 100k comments of the Shrek post, I only scrab 10K, this because the Meta´s policy don´t allow public to download so much quantity of data unless you use the official API of meta and get the permissions.
 
 **Note:** Web scraping may violate Instagram's Terms of Service, so please use caution if collecting your own data.
