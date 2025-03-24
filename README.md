@@ -38,7 +38,7 @@ Instagram Data: The primary dataset used for this project sentiment analysis is 
 
 Using Jupyter Notebook, it was extracted the dataset and transformed applying some functions and tools to translate the comments that are in other languages. The reasons are because we can get better insigths, after VADER has detected comments text in English.
 
-You can view the Jupyter Notebook: 
+You can view the Jupyter Notebook: https://github.com/DavidBejarano17/IG_Shrek5_Sentiment_Analysis/blob/main/Translation_of_comments.ipynb
 
 
 
