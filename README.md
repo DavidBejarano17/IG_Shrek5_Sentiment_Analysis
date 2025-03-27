@@ -68,7 +68,8 @@ https://github.com/DavidBejarano17/IG_Shrek5_Sentiment_Analysis/blob/main/data_s
 
 
 
-### Power Bi Dashboard
+
+## Power Bi Dashboard
 
 Take a look of the Dashboard: https://github.com/DavidBejarano17/IG_Shrek5_Sentiment_Analysis/blob/main/Instagram_Shrek5_Sentiment_Analysis_Dashboard.pdf
 
