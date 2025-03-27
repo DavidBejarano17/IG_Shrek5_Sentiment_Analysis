@@ -36,6 +36,19 @@ Instagram Data: The primary dataset used for this project sentiment analysis is 
   - EDA
   - Build interactive dashboard
 
+
+ ## Exploratory Data Analysis
+ 
+Exploring the sentiments of the comments and answer kew questions, like:
+
+- Distribution of the sentiment score (Neg, Pos, Neu) ?
+- Distribution of the comments by region ?
+- Most used emojis ?
+- Most common complaints ?
+- Reasons for people anger ?
+- Most used hashtags ?
+
+
 ## Develop
 
 ### - Translating the comments
