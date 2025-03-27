@@ -3,6 +3,7 @@
 ## Project Overview
 
 This sentiment analysis project aims to uncover isnigths and resolve questions related to the Instagram trend of the new Shrek movie (Shrek 5). The goal is to understand the reasons behind people's sentiments, perspectives and whats sentiment analysis can tell us about the upcoming film set to be released in 2026.
+
 ![Image](https://github.com/user-attachments/assets/37a8bf80-22f6-4d0a-b8e9-b0ba9dd43d85)
 
 ## Data Sources
